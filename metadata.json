@@ -1,0 +1,12 @@
+{
+  "name": "Remix EcoLens AI",
+  "description": "Universal AI-powered material identification, component segregation, live scrap valuation, and circular recycling platform for general public use.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
